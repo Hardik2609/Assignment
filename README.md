@@ -1,2 +1,0 @@
-# MondayTask
-Demo repo
